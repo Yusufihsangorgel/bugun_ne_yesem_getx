@@ -1,6 +1,6 @@
 # bugun_ne_yesem
 
-A new Flutter project.
+Random food selector with GetX and GetStorage.
 
 ## Getting Started
 
